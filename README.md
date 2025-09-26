@@ -6,3 +6,5 @@ Neste exercício, iremos refatorar um sistema simples para aluguel de livros de 
 
 - [Parte 1](parte1.md)
 - [Parte 2](parte2.md)
+
+Referente as aulas práticas 2 e 3 de Engenharia de Software II - 2025/2 - UFMG.
